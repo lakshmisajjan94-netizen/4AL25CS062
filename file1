@@ -1,6 +1,7 @@
  
 print("Addition", 8+7)
 print("substraction", 8-7)
+print("multiplication", 2*3)
 for i in range(2):
     print(i, end="")
     for j in range(10):
